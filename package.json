@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oerdal.github.io/",
+  "homepage": "https://oerdal.github.io/personal",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
