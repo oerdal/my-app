@@ -2,7 +2,7 @@ import React from 'react';
 import headshot from '../resources/ozan.jpeg';
 
 const styles = {
-    fontSize: '1.1vw',
+    fontSize: '20px',
     lineHeight: '10px',
     color: 'black',
     display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', minHeight: window.innerHeight
